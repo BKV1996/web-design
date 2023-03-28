@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/web-design/static/css/main.86aa52d6.css",
+    "main.js": "/web-design/static/js/main.042aee0f.js",
+    "static/js/787.f055211e.chunk.js": "/web-design/static/js/787.f055211e.chunk.js",
+    "static/media/img1.svg": "/web-design/static/media/img1.db3c0e5cd2b8f4369538.svg",
+    "static/media/img2.webp": "/web-design/static/media/img2.5a7aeef02dc3abf41082.webp",
+    "static/media/masters.png": "/web-design/static/media/masters.804b8bca1059721ea024.png",
+    "static/media/supergirls.png": "/web-design/static/media/supergirls.b92bb59eef0f0403d16c.png",
+    "static/media/indiaseries.png": "/web-design/static/media/indiaseries.5ccac7be60f34d4aff6e.png",
+    "static/media/corbettrip.png": "/web-design/static/media/corbettrip.e0f1417a50fa483fed9b.png",
+    "static/media/screen.png": "/web-design/static/media/screen.e341e0e6c0ed76b0060e.png",
+    "static/media/onair.png": "/web-design/static/media/onair.d3cc0d971cd612c44052.png",
+    "static/media/premier_league.png": "/web-design/static/media/premier_league.0b5bf25ac1f4f77694a9.png",
+    "static/media/grond.png": "/web-design/static/media/grond.f800ab405d849c914790.png",
+    "static/media/india_open.png": "/web-design/static/media/india_open.3ed986c6c06d389a7a01.png",
+    "static/media/viz.png": "/web-design/static/media/viz.a06b37031a7fe9283ba5.png",
+    "static/media/kea.png": "/web-design/static/media/kea.5f9b0c6ed95c1171233e.png",
+    "index.html": "/web-design/index.html",
+    "main.86aa52d6.css.map": "/web-design/static/css/main.86aa52d6.css.map",
+    "main.042aee0f.js.map": "/web-design/static/js/main.042aee0f.js.map",
+    "787.f055211e.chunk.js.map": "/web-design/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86aa52d6.css",
+    "static/js/main.042aee0f.js"
+  ]
+}
